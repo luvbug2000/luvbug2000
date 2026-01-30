@@ -1,5 +1,6 @@
 <h1>Hi, I'm Kristal Irvins! <br/><a 
-href="www.linkedin.com/in/kristal-irvins-3bb0803a5">Data Analyst</a> **update LinkdIN link, then test**
+href="www.linkedin.com/in/kristal-irvins-3bb0803a5"**update LinkdIN link, then test**>Data Analyst</a>, <a
+href=>Scrum Master</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
