@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Kristal Irvins! <br/><a 
+href="www.linkedin.com/in/kristal-irvins-3bb0803a5">Data Analyst</a>
+</h1>
 
-<!--
-**luvbug2000/luvbug2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>💾SQL Project</b>
+  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚Certifications:</h2>
+
+- <b>📜Beginner to Intermediate SQL Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills] (https://app.virtualbadge.io/tmettza9/8tzr69ng/badge)
+
+
+<h2>📱Connect with me:</h2>
+<a href="www.linkedin.com/in/kristal-irvins-3bb0803a5" target="_blank">
+  <img align="left" alt="Kristal Irvins" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
