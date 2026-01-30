@@ -8,6 +8,10 @@ href="www.linkedin.com/in/kristal-irvins-3bb0803a5">Data Analyst</a> **update Li
   - [Demonstrating SQL Techniques](https://github.com/luvbug2000/SQL_Techniques/blob/main/README.md)
   - [TEST Demonstrating SQL Techniques](need new link)
 
+- <b>💾Power BI Project</b>
+  - [Demonstrating TEST Techniques](NEED NEW LINK)
+
+
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
