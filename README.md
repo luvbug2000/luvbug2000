@@ -6,7 +6,7 @@ href="www.linkedin.com/in/kristal-irvins-3bb0803a5">Data Analyst</a> **update Li
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/luvbug2000/SQL_Techniques/blob/main/README.md)
-  - [TEST Demonstrating SQL Techniques](need new link)
+  - [TEST Demonstrating SQL Techniques](https://github.com/luvbug2000/NEW_TEST_PROJECT/blob/main/README.md)
 
 - <b>💾Power BI Project</b>
   - [Demonstrating TEST Techniques](NEED NEW LINK)
@@ -16,6 +16,8 @@ href="www.linkedin.com/in/kristal-irvins-3bb0803a5">Data Analyst</a> **update Li
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://app.virtualbadge.io/tmettza9/8tzr69ng/badge) **update certificate link, then test**
+- <b>📜Advanced SQL Boot Camp</b>
+  - [Demonstrated competency in advanced SQL skills](PASTE NEW LINK) **update certificate link, then test**
 
 
 <h2>📱Connect with me:</h2>
