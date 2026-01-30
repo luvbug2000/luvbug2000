@@ -5,12 +5,12 @@ href="www.linkedin.com/in/kristal-irvins-3bb0803a5">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/luvbug2000/SQL_Techniques/blob/main/README.md)
 
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills] (https://app.virtualbadge.io/tmettza9/8tzr69ng/badge)
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://app.virtualbadge.io/tmettza9/8tzr69ng/badge)
 
 
 <h2>📱Connect with me:</h2>
